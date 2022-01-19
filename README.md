@@ -4,7 +4,7 @@
 
 ## About
 
-This application allows a user to enter items that they will be working on for each hour of a work day. It 
+This application allows a user to enter items that they will be working on for each hour of a work day. With this application, a user can store their text using the save button to local storage so it stays even when refreshing the browser or closing it and coming back. 
 
 ## User Story
 
